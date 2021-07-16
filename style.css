@@ -1,0 +1,93 @@
+body {
+    width:100vw;
+    height: 100vh;
+    margin: 0%;
+    background-color: #181A1B;
+}
+
+.logo {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+}
+.container {
+    padding-top: 20px;
+}
+
+.titulo {
+    color:white ;
+    text-align: center;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 4em;
+}
+
+#presentacion {
+    padding-top: 80px;
+}
+
+#subtitulo {
+    font-family: 'Noto Sans JP', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.sobreMi {
+    text-align: center;
+    font-family: 'Sedgwick Ave Display', cursive;
+    color: white;
+    padding-top: 7px;
+    background-color: #0E6779;
+}
+
+.sM {
+    background-color: #BFBFBF;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+#lista {
+    font-family: 'Noto Sans JP', sans-serif;
+    padding-left: 50px;
+}
+
+.tituloLista {
+    text-decoration: underline;
+}
+
+.artistas {
+    background-color: #212529;
+    color: white;
+    font-family: 'Sedgwick Ave Display', cursive;
+    text-align: center;
+    padding-top: 10px;
+    background-color: #FF3063;
+}
+
+.linkArt {
+    color: white;
+}
+
+.trabajoPersonal {
+    background-color: #212529;
+    color: white;
+    font-family: 'Sedgwick Ave Display', cursive;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #FBCD32;
+}
+
+.footer {
+    background-color: #0E6779;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.footers {
+    color: black;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+/* .enlaces {
+    text-align: center;
+} */
